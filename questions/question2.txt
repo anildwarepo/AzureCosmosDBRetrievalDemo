@@ -5,8 +5,7 @@ book_Full_Circle.txt
 book_A_Walk_in_the_Woods.txt
 book_Forgotten_New_York.txt
 book_Mediterranean_Winter.txt
-book_1
-000_Places_to_See_Before_You_Die.txt
+book_1,000_Places_to_See_Before_You_Die.txt
 book_Ecuador_&_the_Galápagos_Islands.txt
 book_Australia_and_New_Zealand_on_a_Shoestring.txt
 book_Southwest_France.txt

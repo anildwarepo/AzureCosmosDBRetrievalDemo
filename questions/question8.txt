@@ -4,8 +4,7 @@ news_Bombardier_chief_to_leave_company.txt
 news_GM_issues_2005_profits_warning.txt
 news_Feta_cheese_battle_reaches_court.txt
 news_Monsanto_fined_$1.5m_for_bribery.txt
-news_Rover_deal_'may_cost_2
-000_jobs'.txt
+news_Rover_deal_'may_cost_2,000_jobs'.txt
 news_Air_Jamaica_back_in_state_control.txt
 news_House_prices_show_slight_increase.txt
 news_Fosters_buys_stake_in_winemaker.txt
@@ -116,8 +115,7 @@ news_Gazprom_'in_$36m_back-tax_claim'.txt
 news_Watchdog_probes_Vivendi_bond_sale.txt
 news_UK_bank_seals_South_Korean_deal.txt
 news_Brazil_buy_boosts_Belgium's_Inbev.txt
-news_Steel_firm_'to_cut'_45
-000_jobs.txt
+news_Steel_firm_'to_cut'_45,000_jobs.txt
 news_Latin_America_sees_strong_growth.txt
 news_Japan_bank_shares_up_on_link_talk.txt
 news_UK_interest_rates_held_at_4.75%.txt
@@ -308,8 +306,7 @@ news_US_seeks_new_$280bn_smoker_ruling.txt
 news_French_suitor_holds_LSE_meeting.txt
 news_Venezuela_and_China_sign_oil_deal.txt
 news_Electrolux_to_export_Europe_jobs.txt
-news_Argentina
-_Venezuela_in_oil_deal.txt
+news_Argentina,_Venezuela_in_oil_deal.txt
 news_BP_surges_ahead_on_high_oil_price.txt
 news_Winn-Dixie_files_for_bankruptcy.txt
 news_IMF_agrees_fresh_Turkey_funding.txt
@@ -468,11 +465,9 @@ news_Market_unfazed_by_Aurora_setback.txt
 news_Oil_prices_reach_three-month_low.txt
 news_Millions_'to_lose_textile_jobs'.txt
 news_Umbro_profits_lifted_by_Euro_2004.txt
-news_US_insurer_Marsh_cuts_2
-500_jobs.txt
+news_US_insurer_Marsh_cuts_2,500_jobs.txt
 news_Budget_Aston_takes_on_Porsche.txt
-news_Dutch_bank_to_lay_off_2
-850_staff.txt
+news_Dutch_bank_to_lay_off_2,850_staff.txt
 news_FBI_agent_colludes_with_analyst.txt
 news_Indian_oil_firm_eyes_Yukos_assets.txt
 news_Lufthansa_flies_back_to_profit.txt
@@ -493,8 +488,7 @@ news_Irish_duo_could_block_Man_Utd_bid.txt
 news_US_Ahold_suppliers_face_charges.txt
 news_Brewers'_profits_lose_their_fizz.txt
 news_$1m_payoff_for_former_Shell_boss.txt
-news_GM
-_Ford_cut_output_as_sales_fall.txt
+news_GM,_Ford_cut_output_as_sales_fall.txt
 news_Axa_Sun_Life_cuts_bonus_payments.txt
 news_India_widens_access_to_telecoms.txt
 news_Germany_calls_for_EU_reform.txt

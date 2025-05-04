@@ -5,3 +5,4 @@ openai
 azure-ai-documentintelligence
 tiktoken
 azure-cosmos
+pandas

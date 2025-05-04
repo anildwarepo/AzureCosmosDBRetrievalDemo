@@ -34,6 +34,8 @@ client = AzureOpenAI(
 
 async def generate_embeddings(text_list, model="text-embedding-ada-002"):
     try:
+
+        print(f"azure openai endpoint:{azure_openai_endpoint}")
         # Send a batch of texts to the embedding API
         if text_list is None or len(text_list) == 0:
             return []
@@ -49,3 +51,6 @@ async def generate_embeddings(text_list, model="text-embedding-ada-002"):
         print("Error calling OpenAI:" + str(client.base_url))
         print(e)
         raise
+
+
+

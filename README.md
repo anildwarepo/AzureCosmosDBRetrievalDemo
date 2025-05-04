@@ -1,6 +1,6 @@
 ## Search Recall Evaluation with Azure Cosmos DB and GraphRAG
 
-A public dataset based on unstrcutured across various book cateogies of books, wines and new articles as ingested into Azure Cosmos DB Vector Database. A graph based retrieval was used based on [GraphRAG](https://github.com/microsoft/graphrag) was used to build a graph retrieval system. The recall evaluation was done for both global and local search. The evaluation was done on 8 different questions with a total of 16K book files and 1K noise files. The evaluation was done using the following metrics:
+A public dataset based on unstrcutured data across various book cateogies of books, wines and new articles was ingested into Azure Cosmos DB Vector Database. A graph based retrieval was built based on [GraphRAG](https://github.com/microsoft/graphrag). The recall evaluation was done for both global and local searches. The evaluation was done on 8 different questions with a total of 16K book files and 1K noise files. The evaluation was done using the following metrics:
 
 
 ## Evaluation Results
